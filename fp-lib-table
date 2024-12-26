@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "a2b")(type "KiCad")(uri "${KIPRJMOD}/a2b-board-rev0.2.pretty")(options "")(descr ""))
+)
